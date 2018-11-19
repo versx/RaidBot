@@ -192,6 +192,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Bot.cs" />
+    <Compile Include="Commands\Configuration.cs" />
     <Compile Include="Commands\General.cs" />
     <Compile Include="Configuration\Config.cs" />
     <Compile Include="Data\Database.cs" />
